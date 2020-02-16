@@ -1,0 +1,20 @@
+html, body{
+    
+}
+
+h1{
+    color: red;
+}
+
+.title-container{
+    background-color: aqua;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bild-container{
+    
+}
