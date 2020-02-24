@@ -15,6 +15,27 @@ h1{
     justify-content: center;
 }
 
-.bild-container{
-    
+.aside-element{
+    20%
 }
+
+.bild-container{
+    background-color: blueviolet;
+    height: 600px;
+    width: 1000px;
+}
+
+.navitems{
+    background-image: url("pictures/corviglia");
+    80%
+}
+
+.logo{}
+
+.news-container{
+}
+
+.subtitle{
+}
+
+.content-news{}
