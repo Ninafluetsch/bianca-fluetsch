@@ -2,40 +2,85 @@ html, body{
     
 }
 
+@font-face { font-family: 'infomal-roman';
+    src: local ('INFROMAN.TTF')
+         url('font/INFROMAN.TTF') format('truetype'); }
+
 h1{
-    color: red;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.title-container{
-    background-color: aqua;
-    height: 100px;
-    width: 1000px;
-    display: flex;
-    align-items: center;
+.all{
+    max-width: 940px;
     justify-content: center;
 }
 
-.aside-element{
-    20%
+.top-container{
+    max-width: 940px;
+}
+
+.title-container{
+    text-align: center;
+    justify-content: center;
+    max-width: 940px;
+    display: flex;
 }
 
 .bild-container{
-    background-color: blueviolet;
-    height: 600px;
-    width: 1000px;
+    justify-content: center;
 }
 
-.navitems{
-    background-image: url("pictures/corviglia");
-    80%
+.logo{
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
-.logo{}
+
+
+.navigation{
+
+}
+
+.navitems {
+	list-style: none;
+    display: flex;
+    margin-top: 50px;
+	list-style: none;
+    display: flex;
+}	
+
+
+.navitems p {
+    font-size: 17px;
+	color: #332f2f;
+    text-decoration: none;
+    padding: 20px;
+}
+
 
 .news-container{
+    text-align: center;
+    align-content: center;
+    display: flex;
 }
 
-.subtitle{
+.subtitle p{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    text-align: center;
 }
 
-.content-news{}
+.box-left{
+    margin-top: 100px;
+    width: 200px;
+    padding: 20px;
+    background-color: red;
+}
+
+.box-right{
+    margin-top: 100px;
+    width: 200px;
+    padding: 20px;
+    background-color: blue;
+}
