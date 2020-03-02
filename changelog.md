@@ -1,5 +1,10 @@
 #changelog
 
+
+{v0.3-0.4}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/50460a258479eff5d036d1386c5571ecb2e94262) &bull; startseite_top-container
+
+
 {v0.2-0.3}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/15f1038cf3e6253781b8babbda225e7636178c2b) &bull; added content
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/8eb5573ebd25e90bc123ee5f0801157b61b6bdfc) &bull; container-struktur
