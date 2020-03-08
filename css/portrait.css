@@ -1,5 +1,4 @@
 html, body{
-    
 }
 
 h1{
@@ -68,4 +67,36 @@ p{
 .subtitle p{
     font-weight: bold;
     font-size: 20px;
+}
+
+.portrait-container{
+}
+
+.first-container{
+    max-width: 600px;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.first-container p{}
+
+.first-container img{
+    margin-right: 30px;
+    margin-left: 70px;
+}
+
+.second-container{
+    max-width: 600px;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.second-container p{}
+
+.second-container img{
+        margin-right: 30px;
+        margin-left: 70px;
 }
