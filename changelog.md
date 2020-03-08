@@ -1,5 +1,14 @@
 #changelog
 
+{v0.5-0.6}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/f76738fd412c7828e54e96869d377ec5d26b7711) &bull; connected portrait to index
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/7ab87c599d5ae2922e2cbb32fe38579a431bd67d) &bull; Update changelog.md
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5704b07a18893ee471c4b28e2d42a6e28b1d45f7) &bull; updated changelog
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e0ad7c9c2c834a5851e8e7d27e34425e621f4a74) &bull; updated changelog
+
+
+{v0.4-0.5}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/50460a258479eff5d036d1386c5571ecb2e94262) &bull; startseite_top-container
 
 {v0.3-0.4}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/50460a258479eff5d036d1386c5571ecb2e94262) &bull; startseite_top-container
