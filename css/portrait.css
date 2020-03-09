@@ -1,9 +1,13 @@
-html, body{
+
+@font-face{
+    font-family: informal-roman;
+    src: url(fonts/Informal-roman.ttf);
 }
 
 h1{
     color: rgb(0, 0, 0);
-    font-family:'Rubik', sans-serif;
+    font-family: informal-roman;
+    font-size: 45px;
 }
 
 p{
@@ -12,13 +16,15 @@ p{
 }
 
 .all{
-    max-width: 960px;
     justify-content: center;
+    margin left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 .top-container{
+  
 }
-
 .title-container{
     text-align: center;
     justify-content: center;
@@ -29,7 +35,6 @@ p{
     position: relative;
     justify-content: center;
 }
-
 .bild-container p{
     position: absolute;
 	bottom:0;
@@ -45,15 +50,12 @@ p{
     margin-right: 100px;
 }
 
-
 .navitems {
 	list-style: none;
     display: flex;
     text-align: center;
     justify-content: center;
 }	
-
-
 .navitems p {
     text-decoration: none;
     padding: 20px;
@@ -65,38 +67,42 @@ p{
 }
 
 .subtitle p{
-    font-weight: bold;
-    font-size: 20px;
+    font-size: 40px;
+    font-family: informal-roman;
+    margin: 5px;
 }
 
 .portrait-container{
+    max-width: 960px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .first-container{
-    max-width: 600px;
     justify-content: center;
     display: flex;
     margin-top: 30px;
-    margin-left: 30px;
 }
-
-.first-container p{}
-
 .first-container img{
     margin-right: 30px;
-    margin-left: 70px;
 }
 
 .second-container{
-    max-width: 600px;
     justify-content: center;
     display: flex;
     margin-top: 30px;
-    margin-left: 30px;
 }
-.second-container p{}
-
 .second-container img{
-        margin-right: 30px;
-        margin-left: 70px;
+        margin-left: 30px;
+}
+
+.third-container{
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+.third-container img{
+    margin-right: 30px;
+    transform: rotate(180deg);
 }
