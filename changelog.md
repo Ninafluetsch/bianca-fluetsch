@@ -1,5 +1,11 @@
 #changelog
 
+
+{v0.6-0.7}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/f442181118e258a99a30835a092430104c76616a) &bull; download font informal roman
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/31e2cce52211d866a9030f9dec0d4acde11eb568) &bull; cangelog {v0.4-0.5}
+
+
 {v0.5-0.6}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/f76738fd412c7828e54e96869d377ec5d26b7711) &bull; connected portrait to index
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/7ab87c599d5ae2922e2cbb32fe38579a431bd67d) &bull; Update changelog.md
