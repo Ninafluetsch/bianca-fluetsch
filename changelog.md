@@ -1,26 +1,26 @@
 #changelog
 
 
-{v0.6-0.7}
+{v0.6-v0.7}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/f442181118e258a99a30835a092430104c76616a) &bull; download font informal roman
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/31e2cce52211d866a9030f9dec0d4acde11eb568) &bull; cangelog {v0.4-0.5}
 
 
-{v0.5-0.6}
+{v0.5-v0.6}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/f76738fd412c7828e54e96869d377ec5d26b7711) &bull; connected portrait to index
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/7ab87c599d5ae2922e2cbb32fe38579a431bd67d) &bull; Update changelog.md
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5704b07a18893ee471c4b28e2d42a6e28b1d45f7) &bull; updated changelog
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e0ad7c9c2c834a5851e8e7d27e34425e621f4a74) &bull; updated changelog
 
 
-{v0.4-0.5}
+{v0.4-v0.5}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/50460a258479eff5d036d1386c5571ecb2e94262) &bull; startseite_top-container
 
-{v0.3-0.4}
+{v0.3-v0.4}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/50460a258479eff5d036d1386c5571ecb2e94262) &bull; startseite_top-container
 
 
-{v0.2-0.3}
+{v0.2-v0.3}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/15f1038cf3e6253781b8babbda225e7636178c2b) &bull; added content
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/8eb5573ebd25e90bc123ee5f0801157b61b6bdfc) &bull; container-struktur
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/50460a258479eff5d036d1386c5571ecb2e94262) &bull; startseite_top-container
