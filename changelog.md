@@ -1,5 +1,10 @@
 #changelog
 
+{v0.7-v0.8}
+
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/8f974f8d2caac8560ffd806dad80be0ee3c568d5) &bull; add corect content
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/40b02dad60574a778753075b3ed1b4516913caa8) &bull; Update changelog.md
+
 
 {v0.6-v0.7}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/f442181118e258a99a30835a092430104c76616a) &bull; download font informal roman
