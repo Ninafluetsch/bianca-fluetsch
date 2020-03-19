@@ -1,4 +1,3 @@
-
 @font-face{
     font-family: informal-roman;
     src: url(fonts/Informal-roman.ttf);
@@ -23,8 +22,8 @@ p{
 }
 
 .top-container{
-  
 }
+
 .title-container{
     text-align: center;
     justify-content: center;
@@ -43,6 +42,7 @@ p{
     margin-left: 650px;
     margin-right: 20px;
     padding: 6px;
+    font-size: 17px;
 }
 
 .logo{
@@ -50,16 +50,23 @@ p{
     margin-right: 100px;
 }
 
+
 .navitems {
 	list-style: none;
     display: flex;
     text-align: center;
     justify-content: center;
 }	
+
+
 .navitems p {
     text-decoration: none;
     padding: 20px;
     color: black;
+}
+
+
+.news-container{
 }
 
 .subtitle{
@@ -72,46 +79,32 @@ p{
     margin: 5px;
 }
 
-.portrait-container{
+.ausbildung-container{
     max-width: 100%;
     justify-content: center;
     margin-left: 20%;
     margin-right: 20%;
 }
 
-.first-container{
-    justify-content: center;
+.first-container {
     display: flex;
     margin-top: 30px;
 }
+
 .first-container img{
     margin-right: 30px;
 }
 
 .second-container{
-    justify-content: center;
-    display: flex;
-    margin-top: 30px;
+    margin-top: 50px;
+	display: flex;
 }
+
 .second-container img{
-        margin-left: 30px;
+    height: 220px;
 }
 
-.third-container{
-    justify-content: center;
-    display: flex;
-    margin-top: 30px;
-}
-.third-container img{
-    margin-right: 30px;
-    transform: rotate(180deg);
-}
-
-.fourth-container{
-    justify-content: center;
-    display: flex;
-    margin-top: 30px;
-}
-.fourth-container img{
-        margin-left: 30px;
+.picture-middle{
+    margin-left: 20px;
+    margin-right: 20px;
 }
