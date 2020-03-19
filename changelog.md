@@ -1,5 +1,12 @@
 #changelog
 
+
+{v0.8-v0.9}
+
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/47b6f1442dd19ba832e462a5e602ac19681f918b) &bull; navigation-icon
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/0ef56484c9050f777d4f94404ed34f164f9ee8cc) &bull; Update changelog.md
+
+
 {v0.7-v0.8}
 
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/8f974f8d2caac8560ffd806dad80be0ee3c568d5) &bull; add corect content
