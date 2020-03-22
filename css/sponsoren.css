@@ -15,6 +15,11 @@ p{
     font-size: 15px;
 }
 
+.li{
+    font-family:'Rubik', sans-serif;
+    font-size: 15px;
+}
+
 .all{
     justify-content: center;
     margin left: auto;
@@ -86,6 +91,14 @@ p{
 }
 .first-container img{
     margin-right: 30px;
+}
+
+.sponsoren-portrait{
+    margin-top: 20px;
+}
+
+.sponsorn-logos{
+    margin-left: 20px;
 }
 
 .second-container{

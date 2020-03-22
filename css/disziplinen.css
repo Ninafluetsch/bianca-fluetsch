@@ -1,3 +1,4 @@
+
 @font-face{
     font-family: informal-roman;
     src: url(fonts/Informal-roman.ttf);
@@ -7,6 +8,11 @@ h1{
     color: rgb(0, 0, 0);
     font-family: informal-roman;
     font-size: 45px;
+}
+
+h3{
+    font-family:'Rubik', sans-serif;
+    font-size: 20px;
 }
 
 p{
@@ -21,8 +27,6 @@ p{
     width: 100%;
 }
 
-.top-container{
-}
 
 .title-container{
     text-align: center;
@@ -42,7 +46,6 @@ p{
     margin-left: 650px;
     margin-right: 20px;
     padding: 6px;
-    font-size: 17px;
 }
 
 .logo{
@@ -50,23 +53,16 @@ p{
     margin-right: 100px;
 }
 
-
 .navitems {
 	list-style: none;
     display: flex;
     text-align: center;
     justify-content: center;
 }	
-
-
 .navitems p {
     text-decoration: none;
     padding: 20px;
     color: black;
-}
-
-
-.news-container{
 }
 
 .subtitle{
@@ -79,20 +75,71 @@ p{
     margin: 5px;
 }
 
-.boxes{
-    display: flex;
+.portrait-container{
+    max-width: 100%;
     justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-.box-left{
-    margin-top: 10px;
-    width: 30%;
-    margin-right: 20px;
+.first-container{
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+.slalom{
+    display: flex;
+}
+.slalom img{
+    margin-right: 15px;
+    margin-top: 30px;
 }
 
-.box-right{
-    margin-top: 10px;
-    width: 30%;
-    margin-left: 20px;
+.riesenslalom{
+    display: flex;
+    margin-left: 30px;
+}
+.riesenslalom img{
+    margin-right: 15px;
+    margin-top: 30px;
 }
 
+.second-container{
+    justify-content: center;
+    display: flex;
+}
+.super-g{
+    display: flex;
+}
+.super-g img{
+    margin-right: 15px;
+    margin-top: 30px;
+}
+.abfahrt{
+    display: flex;
+    margin-left: 30px;
+}
+.abfahrt img{
+    margin-right: 15px;
+    margin-top: 30px;
+}
+
+.third-container{
+    justify-content: center;
+    display: flex;
+}
+.eyof{
+    display: flex;
+}
+.eyof img{
+    margin-right: 15px;
+    margin-top: 30px;
+}
+.unbekannt{
+    display: flex;
+    margin-left: 30px;
+}
+.unbekannt img{
+    margin-right: 15px;
+    margin-top: 30px;
+}
