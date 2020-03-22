@@ -1,19 +1,17 @@
 #changelog
 
-{v0.9-v1.0}
 
+{v0.9-v1.0}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e8f33da708bbc9a30b511670cff0f903f82f6986) &bull; unterseiten hinzugefügt
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/6a117d938b592b33aa8545b29922aeac5e4769c2) &bull; Update changelog.md
 
 
 {v0.8-v0.9}
-
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/47b6f1442dd19ba832e462a5e602ac19681f918b) &bull; navigation-icon
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/0ef56484c9050f777d4f94404ed34f164f9ee8cc) &bull; Update changelog.md
 
 
 {v0.7-v0.8}
-
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/8f974f8d2caac8560ffd806dad80be0ee3c568d5) &bull; add corect content
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/40b02dad60574a778753075b3ed1b4516913caa8) &bull; Update changelog.md
 
