@@ -75,7 +75,7 @@ p{
     margin: 5px;
 }
 
-.portrait-container{
+.disziplinen-container{
     max-width: 100%;
     justify-content: center;
     margin-left: 10%;
@@ -142,4 +142,14 @@ p{
 .unbekannt img{
     margin-right: 15px;
     margin-top: 30px;
+}
+
+.kontakt{
+    background-color: #CEECF5;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border:10px;
+    margin-bottom: 20px;
 }
