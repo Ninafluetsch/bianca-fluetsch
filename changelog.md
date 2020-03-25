@@ -1,5 +1,10 @@
 #changelog
 
+{v1.0-v1.1}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/16590b89b28682261741e17c6229b2fd59631b9e) &bull; disziplinen seite gestaltet
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/24774c1a3bc840c10d1480847c320cc15b61f940) &bull; Update changelog.md
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/d0d739cde99c711a4d6b559db73833dc8f80a20e) &bull; Update changelog.md
+
 
 {v0.9-v1.0}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e8f33da708bbc9a30b511670cff0f903f82f6986) &bull; unterseiten hinzugefügt
