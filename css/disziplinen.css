@@ -13,6 +13,7 @@ h1{
 h3{
     font-family:'Rubik', sans-serif;
     font-size: 20px;
+    text-align: center;
 }
 
 p{
@@ -20,9 +21,14 @@ p{
     font-size: 15px;
 }
 
+li{
+    font-family:'Rubik', sans-serif;
+    font-size: 15px;    
+}
+
 .all{
     justify-content: center;
-    margin left: auto;
+    margin-left: auto;
     margin-right: auto;
     width: 100%;
 }
@@ -85,7 +91,6 @@ p{
 .first-container{
     justify-content: center;
     display: flex;
-    margin-top: 30px;
 }
 .slalom{
     display: flex;
@@ -94,7 +99,6 @@ p{
     margin-right: 15px;
     margin-top: 30px;
 }
-
 .riesenslalom{
     display: flex;
     margin-left: 30px;
@@ -103,6 +107,7 @@ p{
     margin-right: 15px;
     margin-top: 30px;
 }
+
 
 .second-container{
     justify-content: center;
@@ -127,6 +132,7 @@ p{
 .third-container{
     justify-content: center;
     display: flex;
+    margin-top: 50px;
 }
 .eyof{
     display: flex;
@@ -145,11 +151,11 @@ p{
 }
 
 .kontakt{
-    background-color: #CEECF5;
+    background-color: #dcecfc;
     height: 50px;
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 30px;
     border:10px;
     margin-bottom: 20px;
 }

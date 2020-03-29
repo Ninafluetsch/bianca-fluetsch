@@ -22,7 +22,7 @@ p{
 
 .all{
     justify-content: center;
-    margin left: auto;
+    margin-left: auto;
     margin-right: auto;
     width: 100%;
 }
@@ -93,6 +93,10 @@ p{
     margin-right: 30px;
 }
 
+.sponsoren-liste{
+    margin-top: 20px;
+}
+
 .sponsoren-portrait{
     margin-top: 20px;
 }
@@ -106,35 +110,21 @@ p{
     display: flex;
     margin-top: 30px;
 }
-.second-container img{
+.material{
         margin-left: 30px;
 }
 
-.third-container{
-    justify-content: center;
-    display: flex;
-    margin-top: 30px;
-}
-.third-container img{
-    margin-right: 30px;
-    transform: rotate(180deg);
-}
-
-.fourth-container{
-    justify-content: center;
-    display: flex;
-    margin-top: 30px;
-}
-.fourth-container img{
-        margin-left: 30px;
+.nusstorte{
+    margin-left: 40%;
+    margin-top: 20px;
 }
 
 .kontakt{
-    background-color: #CEECF5;
+    background-color: #dcecfc;
     height: 50px;
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 30px;
     border:10px;
     margin-bottom: 20px;
 }

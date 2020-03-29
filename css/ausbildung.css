@@ -14,9 +14,14 @@ p{
     font-size: 15px;
 }
 
+li{
+    font-family:'Rubik', sans-serif;
+    font-size: 15px;    
+}
+
 .all{
     justify-content: center;
-    margin left: auto;
+    margin-left: auto;
     margin-right: auto;
     width: 100%;
 }
@@ -96,6 +101,11 @@ p{
     margin-top: 20px;
 }
 
+.meine-schulausbildung{
+    margin-top: 10px;
+    margin-right: 20%;
+}
+
 .second-container{
     margin-top: 50px;
 	display: flex;
@@ -111,11 +121,11 @@ p{
 }
 
 .kontakt{
-    background-color: #CEECF5;
+    background-color: #dcecfc;
     height: 50px;
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 30px;
     border:10px;
     margin-bottom: 20px;
 }
