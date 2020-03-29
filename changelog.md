@@ -1,5 +1,11 @@
 #changelog
 
+
+{v1.1-v1.2}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5c1e38e61d94b0d06b6aaf2b2a84b48a642ef413) &bull; kontakt-block hinzugefügt
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/dec4f9d002db6f7119057a23f1ab181d1d2a79ca) &bull; Update changelog.md
+
+
 {v1.0-v1.1}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/16590b89b28682261741e17c6229b2fd59631b9e) &bull; disziplinen seite gestaltet
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/24774c1a3bc840c10d1480847c320cc15b61f940) &bull; Update changelog.md
