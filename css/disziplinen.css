@@ -90,28 +90,47 @@ li{
 .disziplinen-container{
     max-width: 100%;
     justify-content: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .first-container{
     justify-content: center;
     display: flex;
+    margin-top: 30px;
 }
 .slalom{
     display: flex;
+    max-width: 40%;
 }
 .slalom img{
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
+}
+.favourite{
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    border-color: tomato;
+    border-width: 1px;
+    border-style: double;
+    transform: rotate(-20deg);
+    margin-left: 20px;
+}
+.favourite p{
+    text-align: center;
+}
+.subtitle-favourite{
+    display: flex;
 }
 .riesenslalom{
     display: flex;
     margin-left: 30px;
+    max-width: 40%;
 }
 .riesenslalom img{
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 
 
@@ -121,18 +140,20 @@ li{
 }
 .super-g{
     display: flex;
+    max-width: 40%;
 }
 .super-g img{
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 .abfahrt{
     display: flex;
     margin-left: 30px;
+    max-width: 40%;
 }
 .abfahrt img{
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 
 .third-container{
@@ -142,18 +163,20 @@ li{
 }
 .eyof{
     display: flex;
+    max-width: 40%;
 }
 .eyof img{
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 .unbekannt{
     display: flex;
     margin-left: 30px;
+    max-width: 40%;
 }
 .unbekannt img{
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 
 .kontakt{
