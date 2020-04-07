@@ -1,6 +1,11 @@
 #changelog
 
 
+{v1.2-v1.3}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/6e296d553ef83354509590c82286ec3c7b2cea43) &bull; fotogalerie, google-maps
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/1db8eba6077f52e08d5f8acf52651a41283ab995) &bull; Update changelog.md
+
+
 {v1.1-v1.2}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5c1e38e61d94b0d06b6aaf2b2a84b48a642ef413) &bull; kontakt-block hinzugefügt
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/dec4f9d002db6f7119057a23f1ab181d1d2a79ca) &bull; Update changelog.md
