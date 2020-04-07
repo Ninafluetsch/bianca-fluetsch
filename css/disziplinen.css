@@ -137,6 +137,7 @@ li{
 .second-container{
     justify-content: center;
     display: flex;
+    margin-top: 30px;
 }
 .super-g{
     display: flex;
@@ -156,27 +157,52 @@ li{
     margin-top: 60px;
 }
 
+.untere-container{
+    display: flex;
+}
+
+.fis-app{
+    margin-top: 200px;
+    margin-right: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #577da1;
+    padding: 15px;
+}
+.fis-app img{
+    justify-content: center;
+}
+
 .third-container{
     justify-content: center;
     display: flex;
     margin-top: 50px;
 }
+
+.erster-erfolg{
+    display: flex;
+    max-width: 70%;
+}
+.erster-erfolg img{
+    margin-right: 20px;
+    margin-top: 60px;
+}
+
+.fourth-container{
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
 .eyof{
     display: flex;
-    max-width: 40%;
+    max-width: 50%;
 }
 .eyof img{
-    margin-right: 15px;
-    margin-top: 60px;
+    margin-right: 25px;
+    margin-top: 30px;
 }
-.unbekannt{
-    display: flex;
-    margin-left: 30px;
-    max-width: 40%;
-}
-.unbekannt img{
-    margin-right: 15px;
-    margin-top: 60px;
+.eyof-text{
+    margin-top: 30px;
 }
 
 .kontakt{
