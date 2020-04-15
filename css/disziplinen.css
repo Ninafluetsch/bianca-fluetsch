@@ -157,22 +157,6 @@ li{
     margin-top: 60px;
 }
 
-.untere-container{
-    display: flex;
-}
-
-.fis-app{
-    margin-top: 200px;
-    margin-right: 200px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #577da1;
-    padding: 15px;
-}
-.fis-app img{
-    justify-content: center;
-}
-
 .third-container{
     justify-content: center;
     display: flex;
@@ -195,14 +179,26 @@ li{
 }
 .eyof{
     display: flex;
-    max-width: 50%;
+    margin-left: 20%;
 }
 .eyof img{
-    margin-right: 25px;
+    margin-right: 25px;     
     margin-top: 30px;
 }
 .eyof-text{
     margin-top: 30px;
+}
+
+.fis-app{
+    margin-top: 30px;
+    max-width: 20%;
+    margin-left: 15%;
+}
+
+.fis-app{
+    width: 500px;
+    justify-content: center;
+    text-align: center;
 }
 
 .kontakt{

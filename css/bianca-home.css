@@ -9,6 +9,12 @@ h1{
     font-size: 45px;
 }
 
+h3{
+    font-family:'Rubik', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
 p{
     font-family:'Rubik', sans-serif;
     font-size: 15px;
@@ -101,7 +107,25 @@ li{
 .box-right{
     margin-top: 10px;
     width: 30%;
-    margin-left: 20px;
+}
+
+.corona{
+    max-width: 60%;
+    border-width: 3px;
+    border-color: #DA0202;
+    border-style: solid;
+    background: #FFA3A3;
+    height: 100px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.corona p{
+    margin-top: 40px;;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    vertical-align: center;
 }
 
 .kontakt{

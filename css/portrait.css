@@ -97,31 +97,41 @@ li{
     margin-top: 5%;
 
 }
-.first-container img{
+.portrait-bild{
+
+}
+.portrait-bild img{
     margin-right: 30px;
     margin-left: 5%;
 }
 
 .steckbrief{
     display: flex;
+    position: absolute;
+    margin-left: 15%;
+}
+.antworten-steckbrief{
+    max-width: 80%;
 }
 .antworten-steckbrief ul{
     list-style: none;
     padding-left: 20px;
-    margin-right: 100px;
 }
 
+.gesamt-haus{
+    position: relative;
+
+}
 .google-maps{
     height: 100px;
     width: 120px;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-top: 100px;
     border: none;
     float: right;
     background-image: url(picture/haus.png);
     position: absolute;
 }
-
 .haus{
     position: relative;
     margin-top: 30px;
