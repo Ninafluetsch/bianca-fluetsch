@@ -1,5 +1,11 @@
 #changelog
 
+{v1.3-v1.4}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/63d5f3e762367cd546a708ea37e3c1c1260147fc) &bull; Titelbild zentriert
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/066f48ffaa07b545bfe41dc7a427b25e158f83fc) &bull; text zu Disziplinen verfasst
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/dd699d9d2a486564458991500417dbab49992d56) &bull; Fehlermeldung mit Java eingebaut
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/d84ab60b0a4f5feb7f766c8221c72f8ced60a351) &bull; bilder zu fotogalerie hinzugefügt
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/9fb8f03b24b98c4b82a92171ba40ba99d4468662) &bull; Update changelog.md
 
 {v1.2-v1.3}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/6e296d553ef83354509590c82286ec3c7b2cea43) &bull; fotogalerie, google-maps
