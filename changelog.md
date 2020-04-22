@@ -1,5 +1,10 @@
 #changelog
 
+
+{v1.4-v1.5}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/65f46a90c08966840b39562ca3b828c8254d5c4e) &bull; Effekt Fotogalerie
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e2ee138b32a4687f8cb2686c406d2903674b2d5b) &bull; Update changelog.md
+
 {v1.3-v1.4}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/63d5f3e762367cd546a708ea37e3c1c1260147fc) &bull; Titelbild zentriert
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/066f48ffaa07b545bfe41dc7a427b25e158f83fc) &bull; text zu Disziplinen verfasst
