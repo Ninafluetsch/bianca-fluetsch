@@ -102,27 +102,40 @@ li{
     display: flex;
     margin-bottom: 50px;
 }
-
-
+.second-container{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+.third-container{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+.fourth-container{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+}
 
 figure,
 figcaption {
 	margin: 0;
 	padding: 0;
 }
+.gallery {
 
-#gallery {
-	display: grid;
+	display: flex;
 	grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
-	gap: 1em;
-}
+    gap: 1em;
 
-#gallery figure {
+}
+.gallery figure {
+    margin-right: 30px;
 	position: relative;
 	overflow: hidden;
 }
-
-#gallery figure:before {
+.gallery figure:before {
 	content: "?";
 	position: absolute;
 	bottom: 1em;
@@ -138,16 +151,13 @@ figcaption {
 	line-height: 1em;
 	transition: all 1s ease;
 }
-
-#gallery figure:hover:before {
+.gallery figure:hover:before {
 	opacity: 0;
 }
-
 figure img {
 	display: block;
 }
-
-#gallery > figure > figcaption {
+.gallery > figure > figcaption {
 	position: absolute;
 	width: 100%;
 	text-align: center;
@@ -158,65 +168,18 @@ figure img {
 	bottom: -3em;
 	transition: all 1s ease;
 }
-
-figure.mitte figcaption {
-	width: 0;
-	left: 50%;
-}
-
-#gallery > figure.rechts > figcaption {
-	width: 0;
-	bottom: 50%;
-	left: 50%;
-}
-
-#gallery > figure:hover > figcaption {
+.gallery > figure:hover > figcaption {
 	opacity: 1;
 	bottom: 0;
 	left: 0;
 	width: 100%;
 }
-
-#gallery > figcaption {
+.gallery > figcaption {
 	grid-column: 1 / -1;
 	text-align: center;
 }
 
 
-
-
-
-first-container img{
-    margin-right: 30px;
-}
-
-.second-container{
-    justify-content: center;
-    display: flex;
-    margin-bottom: 50px;
-}
-.second-container img{
-        margin-left: 30px;
-}
-
-.third-container{
-    justify-content: center;
-    display: flex;
-    margin-bottom: 50px;
-}
-.third-container img{
-    margin-right: 30px;
-    transform: rotate(180deg);
-}
-
-.fourth-container{
-    justify-content: center;
-    display: flex;
-    margin-bottom: 50px;
-}
-.fourth-container img{
-        margin-left: 30px;
-}
 
 .kontakt{
     background-color: #dcecfc;

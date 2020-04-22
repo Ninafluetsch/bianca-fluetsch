@@ -116,7 +116,13 @@ li{
     border-style: double;
     transform: rotate(-20deg);
     margin-left: 20px;
-}
+
+    transition: transform .2s;
+      }     
+.favourite:hover {
+        transform: scale(1.2);
+      }
+
 .favourite p{
     text-align: center;
 }
@@ -160,7 +166,7 @@ li{
 .third-container{
     justify-content: center;
     display: flex;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .erster-erfolg{
@@ -179,7 +185,10 @@ li{
 }
 .eyof{
     display: flex;
-    margin-left: 20%;
+    max-width: 50%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-bottom: 50px;
 }
 .eyof img{
     margin-right: 25px;     
@@ -191,8 +200,7 @@ li{
 
 .fis-app{
     margin-top: 30px;
-    max-width: 20%;
-    margin-left: 15%;
+    max-width: 200px;
 }
 
 .fis-app{

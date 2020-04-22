@@ -86,13 +86,30 @@ li{
 .subtitle{
     text-align: center;
 }
-
 .subtitle p{
     font-size: 40px;
     font-family: informal-roman;
-    margin: 5px;
 }
 
+.corona{
+    max-width: 60%;
+    border-width: 3px;
+    border-color: #DA0202;
+    border-style: solid;
+    background: #FFA3A3;
+    height: 80px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.corona p{
+    margin-top: 30px;;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    vertical-align: center;
+}
 .boxes{
     display: flex;
     justify-content: center;
@@ -103,29 +120,16 @@ li{
     width: 30%;
     margin-right: 20px;
 }
+.box-left p{
+    margin-bottom: 30px;
+}
 
 .box-right{
     margin-top: 10px;
     width: 30%;
 }
-
-.corona{
-    max-width: 60%;
-    border-width: 3px;
-    border-color: #DA0202;
-    border-style: solid;
-    background: #FFA3A3;
-    height: 100px;
-    justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-.corona p{
-    margin-top: 40px;;
-    font-size: 15px;
-    color: white;
-    text-align: center;
-    vertical-align: center;
+.box-right p{
+    margin-bottom: 30px;
 }
 
 .kontakt{
