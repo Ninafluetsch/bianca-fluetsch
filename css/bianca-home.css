@@ -25,6 +25,10 @@ li{
     font-size: 15px;    
 }
 
+.link a:visited{
+    color: black;
+}
+
 .all{
     justify-content: center;
     margin-left: auto;
@@ -66,7 +70,6 @@ li{
     margin-right: 100px;
 }
 
-
 .navitems {
 	list-style: none;
     display: flex;
@@ -76,9 +79,14 @@ li{
 .navitems p {
     text-decoration: none;
     padding: 20px;
-    color: black;
+    color: #272727;
 }
-
+.navitems a {
+	color: #272727;
+}
+.navitems a:hover{
+	color: #66DDDD;
+}
 
 .news-container{
 }
@@ -110,6 +118,9 @@ li{
     text-align: center;
     vertical-align: center;
 }
+.ueberschrift{
+    text-align: center;
+}
 .boxes{
     display: flex;
     justify-content: center;
@@ -119,17 +130,23 @@ li{
     margin-top: 10px;
     width: 30%;
     margin-right: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .box-left p{
     margin-bottom: 30px;
+    text-align: center;  
 }
 
 .box-right{
     margin-top: 10px;
     width: 30%;
+    justify-content: center;
+    align-items: center;
 }
 .box-right p{
     margin-bottom: 30px;
+    text-align: center;  
 }
 
 .kontakt{

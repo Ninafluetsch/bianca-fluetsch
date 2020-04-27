@@ -20,6 +20,10 @@ li{
     margin-bottom: 8px; 
 }
 
+.link a:visited{
+    color: black;
+}
+
 .all{
     justify-content: center;
     margin-left: auto;
@@ -71,9 +75,14 @@ li{
 .navitems p {
     text-decoration: none;
     padding: 20px;
-    color: black;
+    color: #272727;
 }
-
+.navitems a {
+	color: #272727;
+}
+.navitems a:hover{
+	color: #66DDDD;
+}
 
 .news-container{
 }
@@ -118,7 +127,10 @@ li{
 .second-container img{
     height: 220px;
 }
-
+.second-container img:hover{
+transform: scale(1.2);
+box-shadow: 0px 0px 91px 42px rgba(216,236,255,0.68)
+}
 .picture-middle{
     margin-left: 20px;
     margin-right: 20px;

@@ -20,6 +20,10 @@ p{
     font-size: 15px;
 }
 
+.link a:visited{
+    color: black;
+}
+
 .all{
     justify-content: center;
     margin-left: auto;
@@ -70,7 +74,13 @@ p{
 .navitems p {
     text-decoration: none;
     padding: 20px;
-    color: black;
+    color: #272727;
+}
+.navitems a {
+	color: #272727;
+}
+.navitems a:hover{
+	color: #66DDDD;
 }
 
 .subtitle{
@@ -101,6 +111,9 @@ p{
 
 .sponsoren-liste{
     margin-top: 20px;
+}
+.sponsoren-logos{
+    display: flex; 
 }
 
 .sponsoren-portrait{
