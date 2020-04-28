@@ -1,5 +1,12 @@
 #changelog
 
+{v1.5-v1.6}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/51ddf2537df30999fd3599657022f4c8a01e1faf) &bull; bilder skaliert, zoom-hover hinzugefügt
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/7c0b0ae39e169fe0b109ee5b95b6d66847f2a622) &bull; git Hub richtig verbunden
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/3267d95d7d475938d38b5f2bfd97d9e3989127dc) &bull; index wieder hinzugefügt
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/b1dd7ec763b965fcfc70871bb21e995df6b65ae8) &bull; Merge branch 'master' of https://github.com/Ninafluetsch/bianca-fluetsch
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/57923cbfc6bf1e7608903b9fef443c388355e46e) &bull; Update changelog.md
+
 
 {v1.4-v1.5}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/65f46a90c08966840b39562ca3b828c8254d5c4e) &bull; Effekt Fotogalerie
