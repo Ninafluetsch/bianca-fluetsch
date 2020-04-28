@@ -95,12 +95,13 @@ li{
     font-size: 40px;
     font-family: informal-roman;
     margin: 5px;
+    margin-right: 200px;
 }
 
 .ausbildung-container{
     max-width: 100%;
     justify-content: center;
-    margin-left: 15%;
+    margin-left: 20%;
     margin-right: 5%;
 }
 
@@ -125,7 +126,7 @@ li{
 }
 
 .second-container img{
-    height: 220px;
+    height: 200px;
 }
 .second-container img:hover{
 transform: scale(1.2);

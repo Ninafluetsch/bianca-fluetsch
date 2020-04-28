@@ -130,8 +130,13 @@ li{
     margin-top: 10px;
     width: 30%;
     margin-right: 20px;
-    justify-content: center;
+}
+.box-left img{
+    display: flex; 
+    justify-content: center; 
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 .box-left p{
     margin-bottom: 30px;
@@ -143,6 +148,13 @@ li{
     width: 30%;
     justify-content: center;
     align-items: center;
+}
+.box-right img{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 .box-right p{
     margin-bottom: 30px;
