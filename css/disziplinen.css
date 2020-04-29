@@ -62,7 +62,7 @@ li{
 	left:0;
 	background: rgba(255,255,255,0.6);
     padding: 6px;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .logo{
@@ -176,13 +176,17 @@ li{
 
 .third-container{
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     margin-top: 30px;
+    max-width: 60%;
 }
-
 .erster-erfolg{
     display: flex;
-    max-width: 70%;
+}
+.erster-erfolg h3{
+    margin-right: 150px;
 }
 .erster-erfolg img{
     margin-right: 20px;
