@@ -29,6 +29,9 @@ li{
 .link a:visited{
     color: black;
 }
+.link a:hover{
+	color: #66DDDD;
+}
 
 .all{
     justify-content: center;
@@ -76,6 +79,7 @@ li{
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-top: 1px;
 }	
 .navitems i{
     margin-top: 17px;
@@ -195,7 +199,12 @@ figure img {
 }
 
 
-
+.kontakt a{
+    color: black;
+}
+.kontakt a:hover{
+    color: #66DDDD;
+}
 .kontakt{
     background-color: #dcecfc;
     height: 50px;

@@ -23,6 +23,9 @@ li{
 .link a:visited{
     color: black;
 }
+.link a:hover{
+	color: #66DDDD;
+}
 
 .all{
     justify-content: center;
@@ -70,6 +73,7 @@ li{
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-top: 1px;
 }	
 .navitems i{
     margin-top: 17px;
@@ -141,6 +145,14 @@ li{
     font-size: 14px;
     margin-top: 15px;
 }
+.schreib-mir a:visited{
+    color: black;
+}
+.schreib-mir a:hover{
+	color: #66DDDD;
+}
+
+
 
 .mein-zuhause{
     margin-right: 84%;
@@ -218,6 +230,12 @@ li{
     text-align: right;
 }
 
+.kontakt a{
+    color: black;
+}
+.kontakt a:hover{
+    color: #66DDDD;
+}
 .kontakt{
     background-color: #dcecfc;
     height: 50px;

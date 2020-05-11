@@ -23,6 +23,10 @@ p{
 .link a:visited{
     color: black;
 }
+.link a:hover{
+	color: #66DDDD;
+}
+
 
 .all{
     justify-content: center;
@@ -70,6 +74,7 @@ p{
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-top: 1px;
 }	
 .navitems i{
     margin-top: 17px;
@@ -148,7 +153,12 @@ p{
         margin-left: 30px;
 }
 
-
+.kontakt a{
+    color: black;
+}
+.kontakt a:hover{
+    color: #66DDDD;
+}
 .kontakt{
     background-color: #dcecfc;
     height: 50px;

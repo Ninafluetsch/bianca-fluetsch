@@ -30,6 +30,9 @@ li{
 .link a:visited{
     color: black;
 }
+.link a:hover{
+	color: #66DDDD;
+}
 
 .all{
     justify-content: center;
@@ -75,6 +78,7 @@ li{
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-top: 1px;
 }	
 .navitems i{
     margin-top: 17px;
@@ -214,8 +218,11 @@ li{
     margin-right: 25px;     
     margin-top: 30px;
 }
-.wiki a:visited{
+.eyof a{
     color: black;
+}
+.eyof a:hover{
+    color: #66DDDD;
 }
 .eyof-text{
     margin-top: 30px;
@@ -225,13 +232,18 @@ li{
     margin-top: 30px;
     max-width: 200px;
 }
-
 .fis-app{
     width: 500px;
     justify-content: center;
     text-align: center;
 }
 
+.kontakt a{
+    color: black;
+}
+.kontakt a:hover{
+    color: #66DDDD;
+}
 .kontakt{
     background-color: #dcecfc;
     height: 50px;
