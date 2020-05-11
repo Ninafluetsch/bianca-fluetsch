@@ -1,5 +1,11 @@
 #changelog
 
+{v1.6-v1.7}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e9bea2c221ffc794dd9d50ca2cc323b37bc5075e) &bull; hover effekte, Farbe Verlinkungen
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5b83e5c8a0e795f3af3a9f9d5b4384a46b6168c3) &bull; google maps geändert
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5784ab379496e8c45c17b76b46a619969c919e45) &bull; Update changelog.md
+
+
 {v1.5-v1.6}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/51ddf2537df30999fd3599657022f4c8a01e1faf) &bull; bilder skaliert, zoom-hover hinzugefügt
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/7c0b0ae39e169fe0b109ee5b95b6d66847f2a622) &bull; git Hub richtig verbunden
