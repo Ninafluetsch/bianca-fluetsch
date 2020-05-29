@@ -1,5 +1,11 @@
 #changelog
 
+{v1.8-v1.9}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/49b59e57cd4a6e980181ce8b61709ce52ce94cff) &bull; fertiggestellt
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/3c72f65be22b0ce25215703c063ba69e693a49b8) &bull; überprüfung
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/75bf0b0873e3d04fb9da2cb2a29b2d5378791f62) &bull; Update changelog.md
+
+
 {v1.7-v1.8}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/b1da48e6435c6a0e1f1e228096579dd712bcea5e) &bull; Text angepasst
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/d3952ee8fdae4f1662d842fd0107b693f7ff711a) &bull; usability test
