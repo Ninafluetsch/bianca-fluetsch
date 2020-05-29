@@ -1,5 +1,12 @@
 #changelog
 
+{v1.7-v1.8}
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/b1da48e6435c6a0e1f1e228096579dd712bcea5e) &bull; Text angepasst
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/d3952ee8fdae4f1662d842fd0107b693f7ff711a) &bull; usability test
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/b278f15cabcc845c205e656ce902273eed50f985) &bull; Footer textfarbe angepasst
+- [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/41fefadc4b717d38dda24cdc0c1244b9a09883e2) &bull; Update changelog.md
+
+
 {v1.6-v1.7}
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/e9bea2c221ffc794dd9d50ca2cc323b37bc5075e) &bull; hover effekte, Farbe Verlinkungen
 - [view commit](http://github.com/<Ninafluetsch>/<bianca-fluetsch>/commit/5b83e5c8a0e795f3af3a9f9d5b4384a46b6168c3) &bull; google maps geändert
