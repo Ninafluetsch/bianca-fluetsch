@@ -132,23 +132,24 @@ li{
 .schreibe-mir{
     background-color:#dcecfc;
     height: 50px;
-    width: 160px;
+    width: 140px;
     margin-top: 10%;
     margin-left: 100px;
     align-items: right;
     border-width: 1.5px;
-    border-color:#5882FA;
+    border-color:#0431B4;
     border-style: solid;
+    text-align: center;
 }
 .schreibe-mir p{
-    text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 15px;
-}
-.schreib-mir a:visited{
     color: black;
 }
-.schreib-mir a:hover{
+.schreibe-mir a:visited{
+    color: black;
+}
+.schreibe-mir a:hover{
 	color: #66DDDD;
 }
 
